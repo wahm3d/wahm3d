@@ -1,3 +1,4 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hi 👋, I'm Waleed</h1>
 <h3 align="center">Recent graduate of BSc. in Computer Science from MUN</h3>
 
