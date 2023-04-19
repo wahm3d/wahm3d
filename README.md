@@ -7,9 +7,9 @@
 <img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding" width="400">
 
 
-- 📫 How to reach me **waleedahmedhannan@gmail.com**
+- 📫 Reach out to me by **waleedahmedhannan@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/waleed-ahmed-2499891bb/](https://www.linkedin.com/in/waleed-ahmed-2499891bb/)
+- 📄 Want to know about my experiences? [https://www.linkedin.com/in/waleed-ahmed-2499891bb/](https://www.linkedin.com/in/waleed-ahmed-2499891bb/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
