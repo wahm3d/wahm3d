@@ -1,6 +1,11 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
+
+
 <h1 align="center">Hi 👋, I'm Waleed</h1>
 <h3 align="center">Recent graduate of BSc. in Computer Science from MUN</h3>
+
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6)">
 
 - 📫 How to reach me **waleedahmedhannan@gmail.com**
 
