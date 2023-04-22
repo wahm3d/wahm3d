@@ -1,15 +1,4 @@
-
-<style>
-  
-  body {
-    text-align: center;
-  }
-  
-</style>
-
-<body>
-  
-  ## 🌐 Socials:
+ ## 🌐 Socials:
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/waleed-ahmed-2499891bb) 
 
   # 💻 Tech Stack:
@@ -22,7 +11,4 @@
 
   ---
   [![](https://visitcount.itsvg.in/api?id=wahm3d&icon=0&color=0)](https://visitcount.itsvg.in)
-  
-  
-</body>
 
