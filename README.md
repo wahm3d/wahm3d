@@ -10,5 +10,5 @@
   ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
   ---
- [![num of visitors](https://visitor-badge.glitch.me/badge?page_id=psycho-baller.visitor-badge&left_text=Hello%20visitor%20number&style=flat-square)]
+ ![num of visitors](https://visitor-badge.glitch.me/badge?page_id=psycho-baller.visitor-badge&left_text=Hello%20visitor%20number&style=flat-square)
 
